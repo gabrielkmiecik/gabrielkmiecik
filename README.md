@@ -22,8 +22,8 @@
   nome: "Gabriel Kmiecik";
   foco: "Front-end";
   estudando: "PHP & MySQL";
-  objetivo: "construir sites bonitos e funcionais";
-  café: "sempre";
+  objetivo: "Virar atleta e ganhar a vida com isso ou, virar programador";
+  café: "Não gosto";
 }
 ```
 
